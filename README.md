@@ -63,11 +63,9 @@ python train_fcn.py
 - **train_fcn.py:** Main script for loading data, training, and evaluating the model.
 - **visualization.py:** Handles the visualization of predictions and metrics.
 
-## License
-
-This project is licensed under the MIT License. Please see the `LICENSE` file for more details. 
 
 ## Acknowledgments
 
 - This work is based on the Fully Convolutional Networks for Semantic Segmentation (Long et al., 2015). The paper can be found [here](https://arxiv.org/abs/1411.4038).
 - The UAV dataset used is proprietary and restricted from public access.
+- The project is licensed with the respective LICENSE file. All credits goes to the respective author
